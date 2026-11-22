@@ -1,0 +1,11 @@
+# Taxi park cars
+# Format: TYPE;brand;model;price;fuel (l/100km);max speed (km/h);extra
+# extra: SEDAN - trunk volume (l), HATCHBACK - doors, MINIVAN - seats
+SEDAN;Toyota;Camry;32000;7.8;210;493
+SEDAN;Skoda;Octavia;26000;6.1;225;600
+SEDAN;Hyundai;Elantra;21000;6.9;200;474
+HATCHBACK;Volkswagen;Golf;24000;5.6;210;5
+HATCHBACK;Renault;Clio;17000;5.0;180;5
+HATCHBACK;Mini;Cooper;29000;6.2;235;3
+MINIVAN;Volkswagen;Touran;34000;7.1;200;7
+MINIVAN;Toyota;Sienna;41000;7.4;180;8
